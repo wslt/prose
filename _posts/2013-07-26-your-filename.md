@@ -5,6 +5,7 @@ published: true
 title: Untitled
 tags: 
   - bananas
+splash: "http://placehold.it/1600x500"
 ---
 
 ## A New Post
