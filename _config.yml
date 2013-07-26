@@ -26,6 +26,10 @@ prose:
           element: "text"
           label: "Splash image"
           value: ""
+      - name: "published"
+        field:
+          element: "checkbox"
+          label: "Publish"
       - name: "tags"
         field:
           element: "multiselect"
