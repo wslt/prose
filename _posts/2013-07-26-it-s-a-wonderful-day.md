@@ -3,6 +3,7 @@ layout: blog
 category: blog
 published: true
 title: "It's a wonderful day!"
+splash: "http://placehold.it/1600x500"
 ---
 
 ## A New Post
